@@ -1,0 +1,13 @@
+body {
+    display: flex;
+   
+}
+
+.task{
+    display: flex;
+    flex-direction: row;
+}
+
+.task.h5{
+    margin: 20px;
+}
